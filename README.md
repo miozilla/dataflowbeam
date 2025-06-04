@@ -2,7 +2,7 @@
 dataflowbeam # dataflow # apache beam
 
 ## Objective
-Set up IAM permissions, use private IP adresses for your Datafow jobs.
+Set up IAM permissions, use private IP adresses for Datafow jobs.
 
 
 ## Dataflow & Apache Beam
