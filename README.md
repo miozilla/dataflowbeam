@@ -5,11 +5,7 @@ dataflowbeam # dataflow # apache beam
 Set up IAM permissions, use private IP adresses for your Datafow jobs.
 
 
-<<<<<<< HEAD
 ## Dataflow & Apache Beam
-=======
-## Data Flow Beam 
->>>>>>> 0134a556ecc0953f48d3ef53f9e793c180e7d46f
 
 ![dataflowbeam001.png](./media/dataflowbeam001.png)
 
